@@ -1,6 +1,6 @@
 # AgentBench
 
-Official Github : https://github.com/THUDM/AgentBench
+Inspired by : https://github.com/THUDM/AgentBench
 
 1.
 ![Unleashing-the-Power-of-Language-Models-with-AgentBench_page-0001](https://github.com/Rakib-data-scientist/AgentBench/assets/137823730/238d069e-bb1f-4ad2-9f0c-416af17eb482)
