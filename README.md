@@ -1,19 +1,20 @@
 # AgentBench
 
-Inspired by : https://github.com/THUDM/AgentBench
+
 
 1.
-![Unleashing-the-Power-of-Language-Models-with-AgentBench_page-0001](https://github.com/Rakib-data-scientist/AgentBench/assets/137823730/238d069e-bb1f-4ad2-9f0c-416af17eb482)
+![Unleashing-the-Power-of-Language-Models-with-AgentBench_page-0001](https://github.com/Rakib-data-scientist/AgentBench/assets/137823730/96011b3d-6340-4b46-8cac-f2ea19d80b7e)
 2.
-![Unleashing-the-Power-of-Language-Models-with-AgentBench_page-0002](https://github.com/Rakib-data-scientist/AgentBench/assets/137823730/d644de91-2511-4608-9e26-a082355ddb2a)
+![Unleashing-the-Power-of-Language-Models-with-AgentBench_page-0002](https://github.com/Rakib-data-scientist/AgentBench/assets/137823730/1323705d-2131-4929-9c4d-638a0687e36a)
 3.
-![Unleashing-the-Power-of-Language-Models-with-AgentBench_page-0003](https://github.com/Rakib-data-scientist/AgentBench/assets/137823730/1e912847-348a-4d27-bdef-5a21f22e2d6f)
+![Unleashing-the-Power-of-Language-Models-with-AgentBench_page-0003](https://github.com/Rakib-data-scientist/AgentBench/assets/137823730/dab98735-5697-49d1-a73a-32eaaf154610)
 4.
-![Unleashing-the-Power-of-Language-Models-with-AgentBench_page-0004](https://github.com/Rakib-data-scientist/AgentBench/assets/137823730/3b6c0790-8d73-4963-8190-863df25c9eca)
+![Unleashing-the-Power-of-Language-Models-with-AgentBench_page-0004](https://github.com/Rakib-data-scientist/AgentBench/assets/137823730/aafdfd7a-102a-419a-9ecf-f205b2fdcb99)
 5.
-![Unleashing-the-Power-of-Language-Models-with-AgentBench_page-0005](https://github.com/Rakib-data-scientist/AgentBench/assets/137823730/d0431cf7-2939-4649-a7c7-ebe75b95d0e8)
+![Unleashing-the-Power-of-Language-Models-with-AgentBench_page-0005](https://github.com/Rakib-data-scientist/AgentBench/assets/137823730/879848e8-d00c-415b-b16f-5591681c6dc2)
 6.
-![Unleashing-the-Power-of-Language-Models-with-AgentBench_page-0006](https://github.com/Rakib-data-scientist/AgentBench/assets/137823730/d768b14d-028d-4741-9c62-3c24e59f421e)
+![Unleashing-the-Power-of-Language-Models-with-AgentBench_page-0006](https://github.com/Rakib-data-scientist/AgentBench/assets/137823730/63d26ebc-bf36-41af-bec7-9182efbf3c8a)
 7.
-![Unleashing-the-Power-of-Language-Models-with-AgentBench_page-0007](https://github.com/Rakib-data-scientist/AgentBench/assets/137823730/9d3b7079-00e3-40fa-8a11-0ca2bdcabb29)
+![Unleashing-the-Power-of-Language-Models-with-AgentBench_page-0007](https://github.com/Rakib-data-scientist/AgentBench/assets/137823730/b9dc88bb-bcbb-451a-b6a2-cc8a2d2fd4db)
 
+Inspired by : https://github.com/THUDM/AgentBench
